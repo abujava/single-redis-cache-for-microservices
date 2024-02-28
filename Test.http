@@ -1,0 +1,6 @@
+### User Service (With email)
+http://localhost:8082/api/user/user/1
+
+
+### Order Service (Without email)
+http://localhost:8081/api/order/user/1
